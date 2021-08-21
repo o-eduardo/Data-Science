@@ -1,7 +1,7 @@
 # Carlos Eduardo Ramos
 
 Sou pós-graduando Latu Sensu no curso de Ciência de Dados (Big Data Processing and Analytics) pela Universidade Presbiteriana Mackenzie e estou em busca de uma oportunidade nas áreas correlatas de Data Science, Analitics etc. 
-Nas horas vagas, gosto de produzir músicas (Rap) e assistir séries. Tenho como virtude sempre estar aberto a aprender novas coisas, e me apaixonei pela área de análise de dados ao ter contato com a mesma no desenvolvimento do meu TCC na graduação.
+Nas horas vagas, gosto de produzir músicas (Rap) e assistir séries. Tenho como virtude sempre estar aberto a aprender novas coisas, e me apaixonei pela área de ciência de dados ao ter contato com a mesma no desenvolvimento do meu TCC na graduação.
 
 ## Links:
 * [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-ramos-28483788/)
