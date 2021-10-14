@@ -4,7 +4,7 @@ Sou pós-graduando Lato Sensu no curso de Ciência de Dados (Big Data Processing
 Nas horas vagas, gosto de produzir músicas (Rap) e assistir séries. Tenho como virtude sempre estar aberto a aprender novas coisas, e me apaixonei pela área de ciência de dados ao ter contato com a mesma no desenvolvimento do meu TCC na graduação.
 
 ## Links:
-* [LinkedIn](https://www.linkedin.com/in/carlos-eduardo-ramos-28483788/)
+* [LinkedIn](https://www.linkedin.com/in/caduramos/)
 
 ## Projetos pessoais:
 
